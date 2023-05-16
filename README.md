@@ -7,6 +7,10 @@
 <p><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy-downsized.gif" width="25px" align="top"/> Hi there! I'm Pavel, a React Frontend Developer from Russia 
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="25px" align="top"/></p>
   
+- :briefcase: I’m working as a Lead Developer and building complete web applications using the stack: React, Redux, TypeScript and Next.js
+- :milky_way: In my free time I solve problems on LeetCode and explore new technologies
+- :raised_hands: My dream is to create innovative code solutions that might be useful to people all over the world
+  
 ## :rocket: My stack:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
