@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized.gif" width="400"/>
-</h1>
+</p>
 
 ## :man_technologist: About Me :
 <p><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy-downsized.gif" width="25px" align="top"/> Hi there! I'm Pavel, a React Frontend Developer from Russia 
@@ -33,8 +33,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
 </p>
 
-
-
+##
+![](https://visitcount.itsvg.in/api?id=theReactiveDev&label=Profile%20Views&color=3&icon=5&pretty=false)
 
 
 <!--
