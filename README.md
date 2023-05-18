@@ -11,6 +11,16 @@
 - :milky_way: In my free time I solve problems on LeetCode and explore new technologies
 - :raised_hands: My dream is to create innovative code solutions that might be useful to people all over the world
   
+## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px" align="top"/> Commercial projects:
+
+<p>Proud to have worked on:</p>
+
+- [Project 1 :airplane:](https://beta.merlines.ru/)
+- [Project 2 :ringed_planet:](https://anywayplanet.com/)
+- [Project 3 :chess_pawn:](https://chessy.me/)
+- [Project 4 :earth_americas:](https://space-dog.dev/)
+- [Project 5 :hotel:](https://laros.ch/)
+  
 ## :rocket: My stack:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
