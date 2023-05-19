@@ -13,7 +13,7 @@
   
 ## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px" align="top"/> Commercial projects:
 
-<p>Proud to have worked on:</p>
+<p>I’m proud to have worked on:</p>
 
 - [Project 1 :airplane:](https://beta.merlines.ru/)
 - [Project 2 :ringed_planet:](https://anywayplanet.com/)
