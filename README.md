@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized.gif" width="400"/>
 </p>
 
-## :man_technologist: About Me :
+## About Me :
 <p><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy-downsized.gif" width="25px" align="top"/> Hi there! I'm Pavel, a React Frontend Developer from Russia 
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="25px" align="top"/></p>
   
@@ -21,7 +21,7 @@
 - [Project 4 :earth_americas:](https://space-dog.dev/)
 - [Project 5 :hotel:](https://laros.ch/)
   
-## :rocket: My stack:
+## My stack:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
