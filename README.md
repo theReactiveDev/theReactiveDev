@@ -15,7 +15,7 @@
 
 <p>I’m proud to have worked on:</p>
 
-- [Project 1 :airplane:](https://beta.merlines.ru/)
+- [Project 1 :airplane:](https://merlines.ru/)
 - [Project 2 :ringed_planet:](https://anywayplanet.com/)
 - [Project 3 :chess_pawn:](https://chessy.me/)
 - [Project 4 :earth_americas:](https://space-dog.dev/)
